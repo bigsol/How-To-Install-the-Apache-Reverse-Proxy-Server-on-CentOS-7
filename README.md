@@ -152,3 +152,16 @@ Next, create a sample index.html Error page for case your app is unavailableusin
  
 ![WinSCP_aUU18QKlUP](https://user-images.githubusercontent.com/51197053/140719768-23d374c5-f693-4d97-b024-86a7d185dd7d.png)
 
+<text>
+ <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>403 Forbidden</title>
+</head><body>
+<h1>Forbidden</h1>
+<p>You don't have permission to access /
+on this link.<br />
+</p>
+<hr>
+</body>
+</html>
+</text>
