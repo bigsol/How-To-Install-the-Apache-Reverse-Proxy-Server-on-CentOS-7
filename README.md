@@ -165,3 +165,4 @@ on this link.<br />
 </body>
 </html>
 </text>
+<p>Save and close the file by pressing ESC, typing :wq, and pressing ENTER.</p>
