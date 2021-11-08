@@ -144,5 +144,11 @@ remove ssl.conf<br>
 <li>Install semanage tools: sudo yum -y install policycoreutils-python</li>
 <li>Allow port 88 for httpd: sudo semanage port -a -t http_port_t -p tcp 88</li>
 <li>Allow port 8445 for httpd: sudo semanage port -a -t http_port_t -p tcp 8445</li>
+
+Next, create a sample index.html Error page for case your app is unavailableusing vi or your favorite editor:
+
+<p>sudo vi /var/www/your_domain/html/index.html</p>
+
  
+![WinSCP_aUU18QKlUP](https://user-images.githubusercontent.com/51197053/140719768-23d374c5-f693-4d97-b024-86a7d185dd7d.png)
 
